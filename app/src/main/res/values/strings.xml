@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentProject</string>
+    <string name="pindah_halaman">Pindah Ke Activity Baru</string>
+    <string name="pindah_halaman_data">Pindah Ke Activity Baru Dengan Data</string>
+    <string name="pindah_halaman_object">Pindah Ke Activity Baru Dengan Object</string>
+    <string name="title_activity_main">Project Intent Implicit dan Eksplisit</string>
+    <string name="title_activity_data">Data Diterima</string>
+    <string name="second_activity">Halaman Kedua menggunakan intent biasa pindah halaman</string>
+</resources>
