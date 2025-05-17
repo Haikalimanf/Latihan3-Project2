@@ -21,7 +21,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/pindah_halaman"
-        android:layout_marginBottom="30dp"
+        android:layout_marginBottom="10dp"
         />
 
     <Button
@@ -29,7 +29,15 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/pindah_halaman_data"
-        android:layout_marginBottom="30dp"
+        android:layout_marginBottom="10dp"
+        />
+
+    <Button
+        android:id="@+id/btn_pindah_denganObjek"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pindah_halaman_object"
+        android:layout_marginBottom="10dp"
         />
 
 </LinearLayout>

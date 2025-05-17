@@ -13,6 +13,9 @@
         android:theme="@style/Theme.IntentProject"
         tools:targetApi="31">
         <activity
+            android:name=".PindahDenganObjek"
+            android:exported="false" />
+        <activity
             android:name=".PindahDenganData"
             android:exported="false" />
         <activity

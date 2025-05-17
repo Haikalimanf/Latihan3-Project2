@@ -34,6 +34,17 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                 pindahDataIntent.putExtra(PindahDenganData.EXTRA_AGE, 22)
                 startActivity(pindahDataIntent)
             }
+            R.id.btn_pindah_denganObjek -> {
+                var person = Person(
+                    "Jhon Doe",
+                    22,
+                    "john.doe@examplepetstore.com",
+                    "Bandung"
+                )
+                val pindahObjekIntent = Intent(this, PindahDenganObjek::class.java)
+                pindahObjekIntent.putExtra(PindahDenganObjek.EXTRA_PERSON, person)
+                startActivity(pindahObjekIntent)
+            }
         }
     }
 }
