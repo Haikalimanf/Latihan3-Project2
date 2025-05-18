@@ -6,4 +6,12 @@
     <string name="title_activity_main">Project Intent Implicit dan Eksplisit</string>
     <string name="title_activity_data">Data Diterima</string>
     <string name="second_activity">Halaman Kedua menggunakan intent biasa pindah halaman</string>
+    <string name="title_telefon">Kontak Langsung</string>
+    <string name="title_open_anotherapps">Buka Aplikasi Ini</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="simpan">simpan</string>
+    <string name="result_data">Result dari Halaman Tambah Data</string>
+    <string name="gender">Jenis Kelamin Anda</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
 </resources>
